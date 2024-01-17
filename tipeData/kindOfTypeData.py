@@ -27,3 +27,11 @@ print(type(k))
 print(type(l))
 print(type(m))
 print(type(n))
+
+"""
+Setting the Specific Data Type
+If you want to specify the data type, you can use the following constructor functions:
+"""
+
+x = str("Hello world")
+print(x)
